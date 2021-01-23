@@ -1,0 +1,2 @@
+# Machine-Learning-in-Finance
+Learned the concepts of machine learning and their application in the world of finance. Completed the 6 Modules of the Career Launcher Machine Learning Internship program (FREE), which involved the application of ML libraries like pandas, data visualization, regression, Trade Call Prediction using Classification, Modern Portfolio Theory, and clustering for diversification analysis
